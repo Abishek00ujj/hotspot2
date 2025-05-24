@@ -30,7 +30,7 @@ const AboutUs = () => {
         <div className='mt-6'>
           <p className='text-lg font-semibold'>Developed by:</p>
           <p className='text-[15px] mt-1'>
-            <span className="font-semibold">Pretty petals.</span>, Cyber.
+            <span className="font-semibold">Kathiravan & team</span>
             
           </p>
         </div>
